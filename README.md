@@ -11,8 +11,9 @@ More specifically looking at the DQ ticker that the client was initially interes
 The volume for that ticker in 2017 was on 35,796,200 (3 times as much in 2018). This would not be a good investment stock. 
 The DQ stock likely launched in 2017, inflating the return, but over the first full year the return steeply declined.
 Out of the 12 tickers provided, I would recommend ENPH and RUN.
-(C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2017 stock analysis.PNG)
-(C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2018 stock analysis.PNG)
+
+![2017 stock analysis](https://user-images.githubusercontent.com/99093289/155895806-bd8b3af3-e5a7-494c-96a3-98af949a49b4.PNG)
+![2018 stock analysis](https://user-images.githubusercontent.com/99093289/155895802-c4381f97-9f95-4a24-add2-d9762bbf0344.PNG)
 
 ### Code Perfomance Summary and Refactoring
   As I reflect back to my week with creating this program and learning about nested loops, the steps it takes to get to restuls, and then the capability of refactoring, I am wowed! 
@@ -22,6 +23,5 @@ The total word count went from 650 to 428 (this includes the comments). I strugg
 Overall, I understand the concepts taught, and the importance of refactoring to save space/ultimately time.
 It is time consuming to code, but for repetative data analyses, coding and refactoring can save an unthinkable amount of time.   
 
-(C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2017 time elapsed)
-
-(C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2018 time elapsed)
+![2017 time elapsed](https://user-images.githubusercontent.com/99093289/155895787-c9c2021b-e02a-438c-a022-3153c1286c2b.PNG)
+![2018 time elapsed](https://user-images.githubusercontent.com/99093289/155895797-18b4ba04-92a2-477d-b54a-4ffeab17c74b.PNG)
