@@ -3,7 +3,7 @@
 ## Overview of Project
 This project used my knowledge of VBA to refactor code to make the program use less space and run faster. The program I created, compiled an output of stock market performance in 2017 and 2018.
 
-## Analysis results and 
+## Analysis Results
   The overll analysis of the stock market performance concludes that 2017 yielded an average of 67.3% return where 2018 yielded a -8.5% return. 2018 was not a good year for these tickers. 
 There were two tickers that had a relatively high return, ENPH (81.9%) and RUN (84%). 
 Overall volume each year was similar, average 3.2 billion transactions between all 12 tickers reviewed. 
@@ -23,4 +23,5 @@ Overall, I understand the concepts taught, and the importance of refactoring to 
 It is time consuming to code, but for repetative data analyses, coding and refactoring can save an unthinkable amount of time.   
 
 (C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2017 time elapsed)
+
 (C:\Users\ltipp\Documents\Lauren school\Data analytics bootcamp\Module 2\Resources\2018 time elapsed)
